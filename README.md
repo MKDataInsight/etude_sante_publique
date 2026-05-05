@@ -3,11 +3,13 @@
 ## Table des matières
 - [Scénario](#scénario)
 - [Objectifs et compétences](#objectifs-et-compétences)
+- [Technologies utilisées](#technologies-utilisées)
 - [Structure du projet](#structure-du-projet)
 - [Section auteur](#section-auteur)
 
 # Scénario
 ![FAO](/assets/fao.png)
+
 Data Analyst dans une équipe de chercheurs de la FAO, je dois réaliser une étude sur la sous-alimentation dans le monde.
 
 # Objectifs et compétences
@@ -18,10 +20,14 @@ Data Analyst dans une équipe de chercheurs de la FAO, je dois réaliser une ét
 - Choix des représentations graphiques les plus adaptées
 - Présentation des résultats
 
+## Technologies utilisées
+- **Python** : Pandas pour manipuler les tables, Matplotlib et seaborn pour les visualisations
+
 # Structure du projet
 Le projet est organisé comme suit :
 **_Données_initiales_** : Données socio-économiques issues de FAOSTAT
 **_Livrables_** : Notebook Python
+**presentation.pdf**, **presentation.odp** : PowerPoint présentant ma démarche et mes conclusions 
 **_assets_** : Fichiers utile à la mise en page Github
 
 ## Section auteur
